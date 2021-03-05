@@ -1,3 +1,6 @@
+Envirenment: https://npeplov.github.io/ahj-homeworks/env/
+Status: [![Build status](https://ci.appveyor.com/api/projects/status/5cm5nhnii42jkpiu?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-homeworks)
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ### Continuous Deployment
