@@ -4,7 +4,7 @@ stack: node 10  # окружение
 
 branches:
   only:
-    - simpplification  # ветка git
+    - master  # ветка git
 
 cache: node_modules  # кеширование
 
